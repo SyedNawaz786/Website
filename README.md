@@ -1,4 +1,4 @@
 # Website
 This is demo repository
 <br>
-Author-Syed Nawaz Pasha
+Author-Syed Nawaz Pasha Assistant Professor
